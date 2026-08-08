@@ -1,0 +1,9 @@
+{
+    "Infinix": ["X6516", "X6525", "X6528", "X6531", "X6532", "X6531c", "X6731"],
+    "Itel": ["A507LS", "A507LSP", "A662L", "A665L", "A666L", "A667L", "A668L", "A669W"],
+    "Tecno": ["BG6", "BG6i", "BG6M", "KL4", "KL5", "KM4", "KM5"],
+    "Safaricom": ["Neon Ray Pro", "Neon Smarta", "Neon Smarta 2", "Neon Ultra", "Neon Ultra M", "Neon Ultra 2 4G", "Saji Pro", "Saji Pro Update"],
+    "Samsung": ["SM-A013F", "SM-A015F", "SM-A022F", "SM-A025F", "SM-A032F", "SM-A035F", "SM-A037F", "SM-A042F", "SM-A045F", "SM-A047F", "SM-A055F", "SM-A057F", "SM-A065F", "SM-A075F", "SM-A105F", "SM-A107F", "SM-A115F", "SM-A125F", "SM-A127F", "SM-A135F", "SM-A136B", "SM-A145F", "SM-A146B", "SM-A155F", "SM-A156B", "SM-A165F", "SM-A166B", "SM-A175F", "SM-A205F", "SM-A215F", "SM-A225F", "SM-A226B", "SM-A235F", "SM-A236B", "SM-A245F", "SM-A255F", "SM-A266B", "SM-A305F", "SM-A315F", "SM-A325F", "SM-A326B", "SM-A336B", "SM-A346B", "SM-A356B", "SM-A405F", "SM-A415F", "SM-A426B", "SM-A505F", "SM-A515F", "SM-A525F", "SM-A526B", "SM-A536B", "SM-A546B", "SM-A556B"],
+    "Xiaomi": ["Redmi 10", "Redmi 11", "Redmi 12", "Redmi 13"],
+    "Nokia": ["Method 1", "Method 2", "Method 3", "Method 4"]
+}
